@@ -1,15 +1,33 @@
 # 嗨嗨嗨我是簡偉玲 👋
 ### 東吳大學資訊管理學系|現在大四ㄌ(2026~2027)
 
-[![AWS Certified Cloud Practitioner](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293))]
+[![AWS Certified Cloud Practitioner](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293/public_url)]
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/rujoxum)
 
-- ☁️ 熱衷於 **雲端架構設計 (AWS)**、**大數據運算** 與 **系統分析設計**。
-- 🎯 持續探索將機器學習模型與分散式運算整合至高可用性、符合 Well-Architected 規範的雲端環境。
+- ☁️ 喜歡追星&看小說漫畫，是宅。
+- 🎯 試著建一個個人作品集，還在努力
+---
+## 聯絡方式
+* **Email**：jainwayline@gmail.com
+* **電話**：0909-087-680
 
 ---
 
-### 🛠️技能樹🌳
+## 在校成績
+* **歷年成績 (GPA)**：3.8 / 4.0
+* **系所排名**：9.5%
+* **班級排名**：7.9%
+
+---
+
+## 檢定、證照及獎學金
+* **TOEIC**：[成績還沒出來'_']
+* **AWS Certified Cloud Practitioner (AWS CCP)**
+* **松山慈祐宮績優獎學金**（自2022年起）謝媽祖保佑🙏
+
+---
+
+### 🛠️有摸過ㄉ技能樹🌳
 
 - **Cloud & DevOps**: AWS (EC2, S3, CloudFront, Lambda, API Gateway), Docker, Git, CI/CD
 - **Data & Distributed Systems**: Hadoop, MapReduce, HDFS, Python, Pandas, Scikit-learn
