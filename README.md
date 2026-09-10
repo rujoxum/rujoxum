@@ -1,15 +1,15 @@
 # 嗨嗨嗨我是簡偉玲 👋
-### 東吳大學資訊管理學系|大四ㄌ
+### 東吳大學資訊管理學系|現在大四ㄌ(2026~2027)
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)](你的Credly證照公開連結)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/你的帳號)
+[![AWS Certified Cloud Practitioner](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293))]
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/rujoxum)
 
 - ☁️ 熱衷於 **雲端架構設計 (AWS)**、**大數據運算** 與 **系統分析設計**。
 - 🎯 持續探索將機器學習模型與分散式運算整合至高可用性、符合 Well-Architected 規範的雲端環境。
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️技能樹🌳
 
 - **Cloud & DevOps**: AWS (EC2, S3, CloudFront, Lambda, API Gateway), Docker, Git, CI/CD
 - **Data & Distributed Systems**: Hadoop, MapReduce, HDFS, Python, Pandas, Scikit-learn
