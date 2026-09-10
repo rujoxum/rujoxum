@@ -1,7 +1,6 @@
 # 嗨嗨嗨我是簡偉玲 👋
 ### 東吳大學資訊管理學系|現在大四ㄌ(2026~2027)
-
-[![AWS Certified Cloud Practitioner](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293/public_url)]
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293/public_url)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/rujoxum)
 
 - ☁️ 喜歡追星&看小說漫畫，是宅。
