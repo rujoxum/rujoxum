@@ -1,5 +1,5 @@
-# Hi there, I'm [你的名字] 👋
-### Cloud & Data Engineering Enthusiast | MIS Major
+# 嗨嗨嗨我是簡偉玲 👋
+### 東吳大學資訊管理學系|大四ㄌ
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)](你的Credly證照公開連結)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/你的帳號)
