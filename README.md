@@ -1,4 +1,4 @@
-# 嗨，我是簡偉玲 (Wei-Ling Jain) 👋🏻
+# 嗨，我是簡偉玲 👋🏻
 
 ### 東吳大學 資訊管理學系（Senior, 2023 - 2027）
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293/public_url)
