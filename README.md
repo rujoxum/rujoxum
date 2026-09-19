@@ -3,8 +3,11 @@
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293/public_url)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/rujoxum)
 
-- ☁️ 喜歡追星&看小說漫畫，是宅。
-- 🎯 試著建置一個個人作品集，還在努力💪🏻
+- ☁️ 興趣是追星、聽音樂、看小說漫畫，是宅。
+- 🎶 J-pop、K-pop、西洋都聽
+- 🎤 喜歡PLAVE、KingGnu、Natori、藤井風、米津玄師
+- 🩻 已確診虛擬偶像綜合症重症患者
+- 🎯 目標是補齊自傳簡歷中的成果展示，還有讓你/您多認識我💪🏻
 ---
 ## 聯絡方式
 * **Email**：jainwayline@gmail.com
@@ -40,7 +43,7 @@
 
 ### 🌟 畢業專題研究 (Capstone Project)
 
-#### [基於動態臉部辨識之美妝 AR 教學 APP](./makeup-ar-app)
+#### [基於動態臉部辨識之美妝 AR 教學 APP](https://github.com/rujoxum/makeup-ar-app)
 > **指導教授**：劉譯閔 教授  | **專題小組成員**：盧恩佳、洪語欣、廖冠筑  | **角色**：專案管理、演算法原型設計、後端資料庫建構
 - **特徵捕捉與臉型演算法**：以 Python 實作臉部動態特徵點偵測與幾何數學邏輯驗證，建立臉型比例及膚色特徵判定基準，並設計對應之個人化妝容推薦邏輯。
 - **後端架構與隱私防護**：使用 Supabase 規劃資料庫 Schema 並配置列級安全性政策（RLS, Row Level Security）；架構設計落實隱私保護，原始影像採裝置端運算，雲端僅同步結構化特徵標籤，降低資料外洩風險。
@@ -52,7 +55,7 @@
 
 | 專案名稱 | 領域 | 核心技術 | 實作重點與成果 |
 | :--- | :--- | :--- | :--- |
-| [基於機器學習之信用卡詐欺偵測](./fraud-detection) | Machine Learning | Python, Scikit-learn, XGBoost | 導入 SMOTE 處理 28 萬筆極度不平衡交易，以 PR-AUC 與 Recall 交叉驗證選定最佳模型 |
-| [川普推文議題與情緒分析](./hadoop-bigdata) | Big Data | Hadoop, HDFS, MapReduce, Linux | 搭建雙節點 Master-Slave 叢集，撰寫 MapReduce 腳本完成巨量推文清洗與文本情緒分析 |
-| [Spotify 音樂推薦系統](./music-recommender) | Recommender System | Python, KNN, TF-IDF, Streamlit | 整合 Spotify API 與音訊特徵/歌詞語意建立混合推薦模型，並以 Streamlit 封裝互動網頁 |
-| [課程資訊查詢系統分析與原型設計](./system-analysis) | SA & UI/UX | Figma, draw.io, MS Access | 繪製多層級 DFD 梳理系統資料流，建置正規化關聯式資料庫並產出互動式介面原型 |
+| [基於機器學習之信用卡詐欺偵測](https://github.com/rujoxum/fraud-detection)| Machine Learning | Python, Scikit-learn, XGBoost | 導入 SMOTE 處理 28 萬筆極度不平衡交易，以 PR-AUC 與 Recall 交叉驗證選定最佳模型 |
+| [川普推文議題與情緒分析](https://github.com/rujoxum/hadoop-trump-analysis) | Big Data | Hadoop, HDFS, MapReduce, Linux | 搭建雙節點 Master-Slave 叢集，撰寫 MapReduce 腳本完成巨量推文清洗與文本情緒分析 |
+| [Spotify 音樂推薦系統](https://github.com/rujoxum/spotify-music-recommender) | Recommender System | Python, KNN, TF-IDF, Streamlit | 整合 Spotify API 與音訊特徵/歌詞語意建立混合推薦模型，並以 Streamlit 封裝互動網頁 |
+| [課程資訊查詢系統分析與原型設計](https://github.com/rujoxum/course-system-analysis) | SA & UI/UX | Figma, draw.io, MS Access | 繪製多層級 DFD 梳理系統資料流，建置正規化關聯式資料庫並產出互動式介面原型 |
