@@ -1,14 +1,15 @@
-# 嗨嗨嗨我是簡偉玲 👋
+# 嗨嗨嗨我是簡偉玲 👋🏻
 ### 東吳大學資訊管理學系|現在大四ㄌ(2026~2027)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293/public_url)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/rujoxum)
 
 - ☁️ 喜歡追星&看小說漫畫，是宅。
-- 🎯 試著建一個個人作品集，還在努力
+- 🎯 試著建置一個個人作品集，還在努力💪🏻
 ---
 ## 聯絡方式
 * **Email**：jainwayline@gmail.com
 * **電話**：0909-087-680
+* **Line**：amy931114
 
 ---
 
@@ -20,7 +21,7 @@
 ---
 
 ## 檢定、證照及獎學金
-* **TOEIC**：[成績還沒出來'_']
+* **TOEIC**：[670] (聽讀各335😩)
 * **AWS Certified Cloud Practitioner (AWS CCP)**
 * **松山慈祐宮績優獎學金**（自2022年起）謝媽祖保佑🙏
 
@@ -31,6 +32,7 @@
 - **Cloud & DevOps**: AWS (EC2, S3, CloudFront, Lambda, API Gateway), Docker, Git, CI/CD
 - **Data & Distributed Systems**: Hadoop, MapReduce, HDFS, Python, Pandas, Scikit-learn
 - **System Analysis & Dev**: Figma (UI/UX, Wireframe, Prototype), Swift, FastAPI, SQL
+- **其他基礎技能**: Java, SQL, 一點點C#   
 
 ---
 
