@@ -29,9 +29,10 @@
 
 ### 🛠️有摸過ㄉ技能樹🌳
 
-- **Cloud & DevOps**: AWS (EC2, S3, CloudFront, Lambda, API Gateway), Docker, Git, CI/CD
-- **Data & Distributed Systems**: Hadoop, MapReduce, HDFS, Python, Pandas, Scikit-learn
-- **System Analysis & Dev**: Figma (UI/UX, Wireframe, Prototype), Swift, FastAPI, SQL
+- **雲端運算**: AWS (EC2, S3,DynamoDB), PuTTY, Linux CLI
+- **大數據＆分散式分析**: Hadoop, MapReduce, HDFS, Python, Pandas, Scikit-learn
+- **系統分析**: Figma (UI/UX, Wireframe, Prototype), Swift
+- **機器學習**: SMOTE 過抽樣, Logistic Regression, Random Forest, XGBoost, Naive Bayes
 - **其他基礎技能**: Java, SQL, 一點點C#   
 
 ---
