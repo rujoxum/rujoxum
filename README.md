@@ -21,7 +21,7 @@
 ---
 
 ## 檢定、證照及獎學金
-* **TOEIC**：[670] (聽讀各335😩)
+[![TOEIC](https://img.shields.io/badge/TOEIC-670_%7C_CEFR_B2-blue?logo=google-translate&logoColor=white)](#)
 * **AWS Certified Cloud Practitioner (AWS CCP)**
 * **松山慈祐宮績優獎學金**（自2022年起）謝媽祖保佑🙏
 
