@@ -1,48 +1,61 @@
-# 嗨，我是簡偉玲 👋🏻
+# Hi there, I'm 簡偉玲 (Wei-Ling Chien) 👋
 
-### 東吳大學 資訊管理學系（Senior, 2023 - 2027）
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/fa1dac57-e7f4-4c10-b121-06583fcb9293/public_url)
-[![TOEIC](https://img.shields.io/badge/TOEIC-670_%7C_CEFR_B2-blue?logo=google-translate&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)](https://github.com/rujoxum)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazonaws&logoColor=white)](#)
+[![Academic Ranking](https://img.shields.io/badge/Soochow_Univ-IM_Top_7.9%25-blue)](#)
+[![TOEIC](https://img.shields.io/badge/TOEIC-670-green)](#)
 
-- 🎓 **學業表現**：GPA 3.8 / 4.0 ｜ 系所排名 前 9.5% ｜ 班級排名 前 7.9%
-- 🎧 **平時興趣**：音樂愛好者（J-Pop / K-Pop / 西洋），對虛擬偶像深感興趣
-- 📬 **聯絡信箱**：[jainwayline@gmail.com](mailto:jainwayline@gmail.com)
+目前就讀東吳大學資訊管理學系（班排前 7.9% / 系排前 9.5%），專長於 **雲端資料庫架構設計 (Supabase/RLS)、機器學習 (不平衡數據調優)、分散式運算 (Hadoop/MapReduce) 與系統分析 (SA&SD)**。
 
----
-
-## 🏆 檢定證照與榮譽獎項
-* **AWS Certified Cloud Practitioner (AWS CCP)**
-* **TOEIC 670 分**（CEFR B2 國際標準，聽力 335 / 閱讀 335 均衡）
-* **松山慈祐宮績優獎學金**（2022 - 至今，連續多年獲獎）
+持有 **AWS Certified Cloud Practitioner (CCP)** 國際認證，致力於將「資料隱私保護設計」與「可解釋決策模型」落地於個人化服務產品中。
 
 ---
 
-## 🌟 畢業專題研究 (Capstone Project)
+## 🚀 核心專案展示 (Featured Projects)
 
-### [基於動態臉部辨識之美妝 AR 教學 APP (BlushNote)](https://github.com/rujoxum/makeup-ar-app)
-> **指導教授**：劉譯閔 教授 ｜ **小組成員**：簡偉玲、盧恩佳、洪語欣、廖冠筑 ｜ **核心職責**：專案管理、演算法原型設計、後端資料庫架構
-- **特徵捕捉與臉型演算法**：以 Python 實作臉部動態特徵點偵測原型與幾何數學邏輯驗證，建立臉型比例及 HSV 膚色色調判定基準，設計個人化妝容推薦邏輯。
-- **後端架構與隱私防護**：使用 Supabase (PostgreSQL) 規劃關聯資料庫 Schema 並配置 3 條列級安全性政策（RLS）；架構落實隱私保護，原始影像採裝置端運算，雲端僅同步結構化特徵標籤。
-- **專案管理與技術驗證**：負責團隊整體開發進度與時程控管，協調前後端規格對接，確保演算法原型有效落地至產品端。
-
----
-
-## 📌 精選專案成果 (Featured Projects)
-
-| 專案名稱 | 領域 | 核心技術 | 實作重點與成果 |
-| :--- | :--- | :--- | :--- |
-| [基於機器學習之信用卡詐欺偵測](https://github.com/rujoxum/fraud-detection) | Machine Learning | Python, Scikit-learn, XGBoost | 導入 SMOTE 處理 28 萬筆極度不平衡交易，以 PR-AUC 與 Recall 交叉驗證選定最佳模型 |
-| [川普推文議題與情緒分析](https://github.com/rujoxum/hadoop-trump-analysis) | Big Data | Hadoop, HDFS, MapReduce, Linux | 搭建雙節點 Master-Slave 叢集，撰寫 MapReduce 腳本完成巨量推文清洗與文本情緒分析 |
-| [Spotify 音樂推薦系統](https://github.com/rujoxum/spotify-music-recommender) | Recommender System | Python, KNN, TF-IDF, Streamlit | 整合 Spotify API 與音訊特徵/歌詞語意建立混合推薦模型，以 Streamlit 封裝互動網頁 |
-| [課程資訊查詢系統分析與原型設計](https://github.com/rujoxum/course-system-analysis) | SA & UI/UX | Figma, draw.io, MS Access | 繪製多層級 DFD 梳理系統資料流，建置正規化關聯式資料庫並產出互動式介面原型 |
+### 🌸 1. [美妝 AR 教學 App (BlushNote)](https://github.com/rujoxum/makeup-ar-app)
+> **技術棧**：`Python` `Supabase` `Row Level Security (RLS)` `iOS Native Vision` `Monte Carlo Simulation`
+* **隱私導向邊緣架構**：設計臉型與膚色特徵留在裝置端運算，雲端僅存取去識別化標籤，落實資料最小化原則。
+* **底層細粒度資安**：於 Supabase 綁定 `auth.uid()` 設置 RLS 政策，阻絕多租戶環境下的越權存取。
+* **演算法驗證與排序**：以 Monte Carlo 執行 30 輪模擬實驗，驗證得出 **Top@3 準確率 0.9728**、覆蓋率 99.94% 且 Exposure Gini 僅 0.3504 之高公平性排序模型。
 
 ---
 
-## 🛠️ 技術棧 (Tech Stack)
+### 💳 2. [高度不平衡信用卡詐欺偵測](https://github.com/rujoxum/credit-card-fraud-detection)
+> **技術棧**：`Python` `SMOTE` `XGBoost` `PR-AUC` `Cost-Sensitive Threshold Tuning`
+* **不平衡數據處理**：針對 Kaggle 28 萬筆交易導入 SMOTE 過抽樣，並捨棄易失真的 Accuracy / ROC-AUC，以 **PR-AUC (0.9338)** 與 **F1-Score** 為主要評估標準。
+* **成本敏感決策門檻調優**：考量誤擋正常交易之客服營運成本，將最佳決策門檻調至 `0.822`，使 XGBoost 的 **Precision 提升至 93.33%**，在維持 93.33% Recall 下極小化誤判成本。
 
-* **程式語言 (Languages)**：Python, Java, SQL, C#
-* **資料科學與機器學習 (Data Science & ML)**：Scikit-learn, XGBoost, Pandas, SMOTE, KNN, TF-IDF, Naive Bayes
-* **大數據與分散式系統 (Big Data)**：Apache Hadoop, HDFS, MapReduce, Linux CLI
-* **雲端與資料庫 (Cloud & Database)**：AWS (EC2, S3, DynamoDB), Supabase (PostgreSQL, RLS), MS Access
-* **工具與系統分析 (Tools & Design)**：Git/GitHub, Figma (UI/UX Prototype), draw.io (DFD/ERD), Streamlit
+---
+
+### 🎵 3. [Spotify 多維度混合音樂推薦系統](https://github.com/rujoxum/spotify-music-recommender)
+> **技術棧**：`Python` `Scikit-Learn (KNN)` `NLTK (TF-IDF)` `Spotify Web API` `Streamlit`
+* **四維度混合推薦引擎**：融合音訊特徵 KNN、Russell 心情雙軸空間 (Valence-Energy)、歌詞語意 TF-IDF 餘弦相似度與熱門度榜單（消除冷啟動）。
+* **API 串接與前端交付**：串接 Spotify Web API 獲取專輯封面與試聽連結，並以 Streamlit 封裝可即時互動試聽之 Web 介面。
+
+---
+
+### 🐘 4. [Hadoop 分散式推文輿情趨勢分析](https://github.com/rujoxum/hadoop-tweet-sentiment)
+> **技術棧**：`Hadoop HDFS` `Java MapReduce` `Linux Ubuntu` `Distributed Systems`
+* **雙節點叢集搭建**：在 Linux 虛擬機環境架設 Master-Worker 雙節點 Hadoop 運算叢集。
+* **MapReduce 分散式腳本**：撰寫 MapReduce 程式處理數萬筆公開推文資料，執行大數據比對與情緒趨勢時間序列分析。
+
+---
+
+### 🏛️ 5. [SCUnirea 校園學習管理系統](https://github.com/rujoxum/course-system-analysis)
+> **技術棧**：`Structured Analysis (DFD/DD)` `3NF Schema Refactoring` `MS Access` `Figma Prototype`
+* **三端權限隔離 (RBAC)**：完整規劃「學生端 App、教師端工作台、校方行政後台」之資料流邊界與權限。
+* **Schema 3NF 重構**：評估多表 JOIN 開銷後，主動重構資料庫架構，消除所有冗餘 1:1 資料表，於 Access 建置標準 $1 \to \infty$ 參照完整性約束。
+
+---
+
+## 🛠️ 技術棧與能力 (Skills & Certification)
+
+* **雲端與架構**：AWS CCP Certified, Supabase (RLS/JWT Auth), Database Normalization (3NF)
+* **資料科學與 ML**：Python, Scikit-Learn, XGBoost, Random Forest, SMOTE, NLTK, TF-IDF
+* **巨量資料與工具**：Hadoop HDFS, MapReduce, Linux (Ubuntu), Git/GitHub, Streamlit, Figma
+
+---
+
+## 📫 聯絡方式 (Contact)
+* **Email**: jainwayline@gmail.com
+* **Location**: New Taipei City, Taiwan
