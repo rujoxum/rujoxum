@@ -21,7 +21,7 @@
 
 ---
 
-### 💳 2. [高度不平衡信用卡詐欺偵測](https://github.com/rujoxum/credit-card-fraud-detection)
+### 💳 2. [高度不平衡信用卡詐欺偵測](https://github.com/rujoxum/fraud-detection)
 > **角色**：獨立開發
 > **技術棧**：`Python` `SMOTE` `XGBoost` `PR-AUC` `Cost-Sensitive Threshold Tuning`
 - **不平衡數據處理**：針對 Kaggle 28 萬筆交易導入 SMOTE 過抽樣，並捨棄易失真的 Accuracy / ROC-AUC，以 **PR-AUC (0.9338)** 與 **F1-Score** 為主要評估標準。
@@ -37,7 +37,7 @@
 
 ---
 
-### 🐘 4. [大數據分析巨量集群](https://github.com/rujoxum/hadoop-tweet-sentiment)
+### 🐘 4. [大數據分析巨量集群](https://github.com/rujoxum/hadoop-trump-analysis)
 > **時間**：2026.4｜**角色**：獨立開發
 > **技術棧**：`Hadoop MapReduce` `HDFS` `Java` `Linux Ubuntu` `VirtualBox` `Shell Script`
 - **雙節點叢集搭建**：於 Linux 虛擬機環境手動搭建 Master-Slave 雙節點集群，建立穩定分散式運算環境。
