@@ -22,7 +22,7 @@
 ---
 
 ### 💳 2. [高度不平衡信用卡詐欺偵測](https://github.com/rujoxum/fraud-detection)
-> **角色**：獨立開發
+> **時間**：2025.11｜**角色**：獨立開發
 > **技術棧**：`Python` `SMOTE` `XGBoost` `PR-AUC` `Cost-Sensitive Threshold Tuning`
 - **不平衡數據處理**：針對 Kaggle 28 萬筆交易導入 SMOTE 過抽樣，並捨棄易失真的 Accuracy / ROC-AUC，以 **PR-AUC (0.9338)** 與 **F1-Score** 為主要評估標準。
 - **成本敏感決策門檻調優**：考量誤擋正常交易之客服營運成本，將最佳決策門檻調至 `0.822`，使 XGBoost 的 **Precision 提升至 93.33%**，在維持 93.33% Recall 下極小化誤判成本。
@@ -54,7 +54,7 @@
 ---
 
 ### 🏛️ 6. [SCUnirea 校園學習管理系統](https://github.com/rujoxum/course-system-analysis)
-> **角色**：專案組長 / 系統分析
+> **時間**：2025.4 ~ 2025.6｜**角色**：系統分析、資料庫建置
 > **技術棧**：`Structured Analysis (DFD/DD)` `3NF Schema Refactoring` `MS Access` `Figma Prototype`
 - **三端權限隔離 (RBAC)**：完整規劃學生端 App、教師端工作台與校方行政後台之資料流邊界與權限。
 - **Schema 3NF 重構**：主動重構資料庫架構，消除所有冗餘 1:1 資料表，於 Access 建置標準參照完整性約束。
@@ -63,9 +63,9 @@
 
 ## 🛠️ 專業技能 (Skills)
 
-- **程式語言 (Languages)**：Python, Java, SQL, PHP, Bash/Shell Script
-- **雲端與 OS (Cloud & OS)**：AWS (EC2, S3, DynamoDB, CCP Certified), Supabase (RLS/JWT Auth), Linux (Ubuntu), VirtualBox, PuTTY
-- **後端與資料庫 (Backend & DB)**：Supabase, PHP, Apache 基礎, Database Normalization (3NF)
+- **程式語言 (Languages)**：Python, Java, SQL, Bash/Shell Script
+- **雲端與 OS (Cloud & OS)**：AWS (EC2, S3, DynamoDB, CCP Certified), Supabase (RLS), Linux (Ubuntu), VirtualBox, PuTTY
+- **後端與資料庫 (Backend & DB)**：Supabase, Database基礎知識
 - **前端與視覺化 (Frontend & UI)**：Streamlit, Figma
 - **AI & 數據分析 (AI & Data Analysis)**：Machine Learning (Scikit-learn, XGBoost, SMOTE), Hadoop MapReduce, LLM 應用, 推薦系統
 
