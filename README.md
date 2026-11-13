@@ -1,4 +1,4 @@
-# Hi there, I'm 簡偉玲 (Wei-Ling Chien) 👋
+# 哈囉,我是簡偉玲 (Wei-Ling Chien) 👋
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazonaws&logoColor=white)](#)
 [![Academic Ranking](https://img.shields.io/badge/Soochow_Univ-IM_Top_7.9%25-blue)](#)
