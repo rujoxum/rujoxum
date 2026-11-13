@@ -13,8 +13,8 @@
 
 ## 🚀 專案展示 (Featured Projects)
 
-### 🌸 1. [動態臉部辨識之美妝 AR 教學 App (BlushNote)](https://github.com/rujoxum/makeup-ar-app)
-> **時間**：2026.3 ~ Present｜**角色**：後端與演算法設計主導
+### 🌸 1. [靜態臉部辨識之美妝 AR 教學 App (BlushNote)](https://github.com/rujoxum/makeup-ar-app)
+> **時間**：2026.3 ~ Present｜**角色**：後端與演算法設計
 > **技術棧**：`Python` `Supabase` `Row Level Security (RLS)` `Apple Vision` `Monte Carlo Simulation`
 - **雲端資安與隱私隔離**：規劃 Supabase 資料庫架構，並實作 Row Level Security (RLS) 綁定 `auth.uid()`，確保使用者隱私數據於多租戶環境下被安全隔離。
 - **邊緣影像處理與驗證**：結合 Apple Vision 框架進行邊緣端影像處理，並透過蒙地卡羅演算法初步驗證推薦邏輯之可行性與一致性（Top@3 準確率 0.9728）。
